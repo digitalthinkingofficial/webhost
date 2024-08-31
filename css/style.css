@@ -156,7 +156,7 @@ section{
 /* about */
 
 .about{
-    background-image:url(../images/about-left.png);
+    background-image:url();
     background-repeat:no-repeat; 
     background-position:left bottom;
 }
