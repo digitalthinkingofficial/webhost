@@ -104,13 +104,13 @@ section{
 .header .navbar a{
     font-size: 2rem;
     margin-left: 2rem;
-    color:var(--black);
+    color:var(--white);
     text-transform: capitalize;
 }
  
  .header .navbar a:hover{
     padding-bottom: 0.5rem;
-    color:var(--primary-color);
+    color:var(--white);
  }
  
  #menu-btn{
@@ -141,7 +141,7 @@ section{
     font-size: 3rem;
     letter-spacing: .5rem;
     padding-bottom: .5rem;
-    color:var(--primary-color);
+    color:var(--white);
     text-transform: uppercase;
  }
 
