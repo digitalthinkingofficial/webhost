@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:1,300,400,400italic,500,700,700italic,900');
 
 :root{
-
+    
     --main-color:#bb7306;
     --primary-color: #5a2a01;
     --hover: #894f03;
@@ -223,7 +223,7 @@ section{
 /* services */
 
 .services{
-    background-color: var(--main-color);
+    background-color: var(--primary-color);
  }
 
 .services .box-container{
@@ -264,7 +264,6 @@ section{
     text-align: center;
     font-size: 3rem;
     color:var(--white);
-    padding-top: 40rem;
     text-transform: capitalize;
  }
 
@@ -666,7 +665,7 @@ section{
   }
   
   .footer .credit span {
-    color: var(--primary-color);
+    color: var(--main-color);
   }
 
 
