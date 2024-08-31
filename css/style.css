@@ -80,7 +80,7 @@ section{
     box-shadow: var(--box-shadow);
     position: sticky;
     top:0; left:0; right: 0;
-    background: var(--main-color);
+    background: var(--primary-color);
     z-index: 1000;
 }
  
